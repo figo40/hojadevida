@@ -1,0 +1,18 @@
+.caja1{
+    font-family: Times New Roman;
+    font-size:18px;
+    font-weight:400;
+    color:black;
+    background: rgb(189, 211, 218);
+    text-align:center;
+    border-radius: 35px 0px 35px 0px;
+
+-moz-border-radius: 35px 0px 35px 0px;
+
+-webkit-border-radius: 35px 0px 35px 0px;
+
+border: 5px solid brown;
+   
+
+  
+}

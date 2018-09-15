@@ -1,0 +1,25 @@
+h2{
+    color:grey;
+    background-color:rgb(49, 44, 99);
+    border:4px blue;
+    text-align: center; 
+    border-radius: 35px 0px 35px 0px;
+
+-moz-border-radius: 35px 0px 35px 0px;
+
+-webkit-border-radius: 35px 0px 35px 0px;
+
+border: 2px black
+
+                                                                                                                                                                                                                                                                                                                                                                                                                             
+
+}
+p {
+    border-color:white black;
+    border:white 8px inset;
+    border-style: solid;
+    text-align: center;
+    
+    
+}                                   
+
